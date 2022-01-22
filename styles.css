@@ -1,27 +1,31 @@
 body {
-    background-color: orangered;
+    background: rgb(252,0,0);
+    background: linear-gradient(90deg, rgba(252,0,0,1) 0%, rgba(231,95,68,1) 35%, rgba(255,136,0,1) 100%);
     margin: 0;
-    font-family: rubik;
+    font-family: 'Roboto', sans-serif;
     color: white;
 }
 
 .container {
-    padding: 40px;
+    padding: 20px;
     margin: 0 auto;
 }
 
 h1 {
-    text-transform: uppercase;
     text-align: center;
     font-size: 60px;
+    padding: 30px;
 }
 
 .card {
     list-style: none;
     padding: 40px;
     background-color: #f4f4f4;
-    color: #222;
+    color: #080808;
+    font-weight: 900;
     text-align: center;
+    border:#c5b6b6 7px solid;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
   .card-title {
     text-transform: uppercase;
