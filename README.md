@@ -1,6 +1,6 @@
 # API-project
 
-[Link to finished project] (https://criminy-git.github.io/api-project-pokedex/)
+[Link to finished project](https://criminy-git.github.io/api-project-pokedex/)
 
 Learned in this project:
 - Promises, what they are and how they are used
