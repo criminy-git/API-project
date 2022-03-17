@@ -1,4 +1,4 @@
-#Pokedex rendering data from an API
+# Pokedex rendering data from an API
 
 # API-project
 
