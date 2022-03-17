@@ -1,6 +1,5 @@
-# Pokedex rendering data from an API
+# Pokedex API Project
 
-# API-project
 
 [Link to finished project](https://j-pohl.github.io/api-project-pokedex/)
 
